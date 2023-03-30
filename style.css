@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.hello{
+
+   
+    border: 30px solid blue;
+    background-color: rgb(150, 215, 255);
+    transition: 1s; 
+    font-size: 30px;
+    cursor: pointer;
+}
+
+:hover { 
+    border: 30px solid blue;
+    background-color: rgb(150, 215, 255);
+    transition: 1s;  
+}
+
+  
